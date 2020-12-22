@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                = 'TencentOpenAPI-unofficial'
+  s.name                = 'TencentOpenAPI_unofficial'
   s.version             = '3.5.1'
   s.summary             = 'Tencent QQ Open SDK 3.5.1 version'
   s.requires_arc        = true
